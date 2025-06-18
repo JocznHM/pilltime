@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76592389155",
+    "project_id": "pilltimebackend",
+    "storage_bucket": "pilltimebackend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76592389155:android:d8138b3afb94ae9ba62596",
+        "android_client_info": {
+          "package_name": "com.example.pilltime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeokd-5Td32YQVTZKyXd6JKTi9MYkZJjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
